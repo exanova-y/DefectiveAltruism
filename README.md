@@ -1,2 +1,2 @@
-# EffectiveAltruism
-my formal analysis project
+# Defective Altruism
+my FA50, formal analysis project
